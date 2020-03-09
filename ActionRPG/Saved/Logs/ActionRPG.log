@@ -40,6 +40,7 @@ LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MixamoAnimationRetargeting
 LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
@@ -103,7 +104,7 @@ LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -404,7 +405,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.11-14.10.19:396][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
 [2020.02.11-14.10.19:396][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
 [2020.02.11-14.10.19:396][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.02.11-14.10.19:396][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.02.11-14.10.19:396][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2020.02.11-14.10.19:396][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
 [2020.02.11-14.10.19:397][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2020.02.11-14.10.19:397][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -525,8 +526,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.11-14.10.39:819][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
 [2020.02.11-14.10.39:881][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
 [2020.02.11-14.10.39:930][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
-[2020.02.11-14.10.39:930][  0]MapCheck: Repaired painted vertex colors in 0.0s for 14 components in /Game/Maps/ActionRPG_Dungeon02_Asset.  Resave map to fix. 
-[2020.02.11-14.10.39:930][  0]MapCheck: Warning: Spent 0.0s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved. 
+[2020.02.11-14.10.39:930][  0]MapCheck: Repaired painted vertex colors in 0.0s for 14 components in /Game/Maps/ActionRPG_Dungeon02_Asset.  Resave map to fix.
+[2020.02.11-14.10.39:930][  0]MapCheck: Warning: Spent 0.0s repairing painted vertex colors due to static mesh re-imports!  This will happen every load until the maps are resaved.
 [2020.02.11-14.10.39:930][  0]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.02.11-14.10.39:930][  0]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0.544ms to complete.
 [2020.02.11-14.10.39:978][  0]LogFileHelpers: Loading map 'ActionRPG_P' took 8.430
