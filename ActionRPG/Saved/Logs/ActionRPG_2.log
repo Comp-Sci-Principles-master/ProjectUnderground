@@ -9998,3 +9998,11 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get IsDancing
 [2020.03.12-13.22.10:092][248]LogPlayLevel: Display: Destroying online subsystem :Context_17
 [2020.03.12-13.22.10:182][248]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
 [2020.03.12-13.22.26:845][424]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2020.03.12-13.28.51:841][673]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={872696C2-4C3F-3308-1134-19B1FD41002A}
+[2020.03.12-13.30.20:616][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.03.12-13.30.20:756][ 20]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ActionRPG_Dungeon02_Asset, Actor: /Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.REINST_ActionRPG_Dungeon02_Asset_C_0
+[2020.03.12-13.30.21:467][ 20]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/ActionRPG_Dungeon02_Asset_Auto23E3E55B74BDCC214F5AD388FA8F015BA.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Autosaves/Game/Maps/ActionRPG_Dungeon02_Asset_Auto2.umap'
+[2020.03.12-13.30.21:473][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Subway_Level' took 0.954
+[2020.03.12-13.30.21:473][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.954
+[2020.03.12-13.32.39:248][431]LogSlate: Window 'World Outliner' being destroyed
+[2020.03.12-13.32.39:255][431]LogSlate: Window 'World Outliner' being destroyed
