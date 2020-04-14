@@ -2988,3 +2988,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.14-19.04.37:361][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Master]
 [2020.04.14-19.04.37:382][833]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Master_Auto928B8D41C4A8A61438998458FE1575F71.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Autosaves/Game/Cinematics/Master_Auto9.uasset'
 [2020.04.14-19.04.37:383][833]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.04.14-19.07.03:387][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-19.07.03:514][271]LogEditorViewport: Clicking Background
+[2020.04.14-19.07.04:801][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-19.07.05:281][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.04.14-19.07.05:499][474]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/ActionRPG_P527F425846406B38D45F45B51E311C2D.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P.umap'
+[2020.04.14-19.07.05:547][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ActionRPG_P_BuiltData" FILE="../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P_BuiltData.uasset" SILENT=true
+[2020.04.14-19.07.05:575][474]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/ActionRPG_P_BuiltDataFFF39CA5476EC83B42C9A1A6F87C9202.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P_BuiltData.uasset'
