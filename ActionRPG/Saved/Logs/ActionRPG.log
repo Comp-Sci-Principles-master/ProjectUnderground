@@ -2979,3 +2979,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.14-19.03.50:772][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/ActionRPG_P_BuiltData" FILE="../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P_BuiltData.uasset" SILENT=true
 [2020.04.14-19.03.50:819][156]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/ActionRPG_P_BuiltData4C1E3AF54EE8350EBF958C942DFC21B5.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P_BuiltData.uasset'
 [2020.04.14-19.03.52:580][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.14-19.04.37:100][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2020.04.14-19.04.37:139][833]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: ActionRPG_Dungeon02_Asset, Actor: /Game/Maps/ActionRPG_Dungeon02_Asset.ActionRPG_Dungeon02_Asset:PersistentLevel.REINST_ActionRPG_Dungeon02_Asset_C_0
+[2020.04.14-19.04.37:357][833]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/ActionRPG_Dungeon02_Asset_Auto9A8615DFC4B0CE79553A7858C33D59540.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Autosaves/Game/Maps/ActionRPG_Dungeon02_Asset_Auto9.umap'
+[2020.04.14-19.04.37:360][833]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/ActionRPG_P' took 0.292
+[2020.04.14-19.04.37:360][833]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2020.04.14-19.04.37:361][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cinematics/Master] ([1] browsable assets)...
+[2020.04.14-19.04.37:361][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cinematics/Master]
+[2020.04.14-19.04.37:382][833]LogSavePackage: Moving '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Master_Auto928B8D41C4A8A61438998458FE1575F71.tmp' to '../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Autosaves/Game/Cinematics/Master_Auto9.uasset'
+[2020.04.14-19.04.37:383][833]LogFileHelpers: Auto-saving content packages took 0.022
