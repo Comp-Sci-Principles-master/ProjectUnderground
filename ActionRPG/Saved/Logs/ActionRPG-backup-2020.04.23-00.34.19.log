@@ -1,0 +1,1399 @@
+﻿Log file open, 04/22/20 20:20:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ActionRPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.071611
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MixamoAnimationRetargeting
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GameplayAbilities
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SlateRemote
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.23-00.20.20:404][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.23-00.20.20:404][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.23-00.20.20:405][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:405][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.23-00.20.20:405][  0]LogConfig: Setting CVar [[r.Mobile.TonemapperFilm:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+[2020.04.23-00.20.20:406][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.MobileMSAA:2]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:64]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:0]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:0]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.ShaderPipelineCache.Enabled:1]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.AllowVolumeTextureAssetCreation:1]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:1]]
+[2020.04.23-00.20.20:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:408][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.23-00.20.20:409][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.23-00.20.20:410][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.23-00.20.20:410][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.23-00.20.20:410][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:410][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:427][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-00.20.20:427][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-00.20.20:428][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-00.20.20:429][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:429][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-00.20.20:430][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-00.20.20:431][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-00.20.20:432][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.23-00.20.20:561][  0]LogHAL: Display: Platform has ~ 16 GB [17017790464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.23-00.20.20:561][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.23-00.20.20:562][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.23-00.20.20:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.23-00.20.20:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.23-00.20.20:564][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Scalability.ini]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.23-00.20.20:565][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.23-00.20.20:578][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.23-00.20.20:578][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.23-00.20.20:578][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Config/Windows/Engine.ini]
+[2020.04.23-00.20.20:579][  0]LogInit: Computer: MSI
+[2020.04.23-00.20.20:579][  0]LogInit: User: UpperSchool
+[2020.04.23-00.20.20:579][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.04.23-00.20.20:579][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.23-00.20.20:580][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2020.04.23-00.20.20:580][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.23-00.20.20:580][  0]LogMemory: Process Physical Memory: 111.57 MB used, 111.57 MB peak
+[2020.04.23-00.20.20:580][  0]LogMemory: Process Virtual Memory: 99.36 MB used, 99.36 MB peak
+[2020.04.23-00.20.20:580][  0]LogMemory: Physical Memory: 5962.82 MB used,  10266.61 MB free, 16229.43 MB total
+[2020.04.23-00.20.20:580][  0]LogMemory: Virtual Memory: 4671.66 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.04.23-00.20.21:182][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.23-00.20.21:729][  0]LogInit: Using OS detected language (en-US).
+[2020.04.23-00.20.21:729][  0]LogInit: Using OS detected locale (en-US).
+[2020.04.23-00.20.21:739][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.04.23-00.20.22:506][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.23-00.20.22:766][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.23-00.20.22:766][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.23-00.20.29:199][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.23-00.20.29:398][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2020.04.23-00.20.29:398][  0]LogD3D11RHI:       3962/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.04.23-00.20.29:491][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.23-00.20.29:491][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.23-00.20.29:502][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.23-00.20.29:502][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.23-00.20.29:502][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.23-00.20.29:598][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.23-00.20.29:599][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.23-00.20.29:599][  0]LogWindows: EnumDisplayDevices:
+[2020.04.23-00.20.29:599][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.23-00.20.29:600][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2020.04.23-00.20.29:601][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.23-00.20.29:602][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.23-00.20.29:602][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2020.04.23-00.20.29:602][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.23-00.20.29:602][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.23-00.20.29:602][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2020.04.23-00.20.29:734][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.23-00.20.29:771][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.23-00.20.31:044][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.23-00.20.31:073][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.23-00.20.31:103][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.23-00.20.31:132][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.23-00.20.31:173][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.23-00.20.31:202][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.23-00.20.31:231][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.23-00.20.31:260][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.23-00.20.31:274][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.23-00.20.31:404][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.23-00.20.31:404][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.23-00.20.31:404][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.23-00.20.31:404][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.23-00.20.31:405][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.23-00.20.31:406][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.23-00.20.31:406][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.23-00.20.31:412][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.23-00.20.31:497][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.23-00.20.31:497][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.23-00.20.31:542][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.23-00.20.31:543][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.23-00.20.31:566][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.23-00.20.31:590][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.23-00.20.31:614][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.23-00.20.31:661][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.23-00.20.31:747][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.23-00.20.31:747][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.23-00.20.31:748][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.23-00.20.31:782][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.23-00.20.32:085][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Intermediate/Shaders/WorkingDirectory/7020/).
+[2020.04.23-00.20.32:085][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Upper School/AppData/Local/Temp/UnrealShaderWorkingDir/C7006C6B40DFE300C451B382A487C30F/'.
+[2020.04.23-00.20.32:096][  0]LogXGEController: Cleaning working directory: C:/Users/Upper School/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.23-00.20.32:097][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.23-00.20.32:097][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.23-00.20.32:098][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.23-00.20.38:472][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.23-00.20.38:573][  0]LogDerivedDataCache: Loaded boot cache 0.10s 45MB C:/Users/Upper School/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-00.20.38:573][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Upper School/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.04.23-00.20.38:573][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.23-00.20.38:573][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.23-00.20.38:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-00.20.38:574][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.23-00.20.38:626][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.23-00.20.38:627][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.23-00.20.38:627][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.23-00.20.38:631][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.23-00.20.38:632][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.23-00.20.38:632][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.23-00.20.38:703][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.23-00.20.38:715][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.23-00.20.38:762][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.23-00.20.39:468][  0]LogAssetRegistry: FAssetRegistry took 0.0113 seconds to start up
+[2020.04.23-00.20.40:855][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.23-00.20.41:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.23-00.20.41:694][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.23-00.20.41:694][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.23-00.20.41:694][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.23-00.20.41:695][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.23-00.20.41:813][  0]LogNetVersion: ActionRPG 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3902779509)
+[2020.04.23-00.20.44:860][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 1 prioritized culture(s) in 0.082525 seconds
+[2020.04.23-00.20.44:873][  0]LogUObjectArray: 42260 objects as part of root set at end of initial load.
+[2020.04.23-00.20.44:873][  0]LogUObjectAllocator: 7332072 out of 0 bytes used by permanent object pool.
+[2020.04.23-00.20.44:873][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.23-00.20.53:722][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.23-00.20.53:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.23-00.20.53:824][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.003 s
+[2020.04.23-00.20.54:064][  0]SourceControl: Source control is disabled
+[2020.04.23-00.20.54:065][  0]SourceControl: Source control is disabled
+[2020.04.23-00.20.54:081][  0]SourceControl: Source control is disabled
+[2020.04.23-00.20.54:088][  0]SourceControl: Source control is disabled
+[2020.04.23-00.20.55:951][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.23-00.20.56:480][  0]LogEngine: Initializing Engine...
+[2020.04.23-00.20.57:517][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.23-00.20.57:597][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.23-00.20.57:995][  0]LogInit: XAudio2 using 'Speakers (G933 Artemis Spectrum Snow)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.04.23-00.20.58:100][  0]LogInit: FAudioDevice initialized.
+[2020.04.23-00.20.58:101][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.23-00.20.58:155][  0]LogDerivedDataCache: Saved boot cache 0.05s 45MB C:/Users/Upper School/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.04.23-00.20.58:167][  0]LogInit: Texture streaming: Enabled
+[2020.04.23-00.20.58:239][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.23-00.20.58:239][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.23-00.20.58:247][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.23-00.20.59:245][  0]LogInit: Transaction tracking system initialized
+[2020.04.23-00.20.59:418][  0]BlueprintLog: New page: Editor Load
+[2020.04.23-00.20.59:891][  0]LocalizationService: Localization service is disabled
+[2020.04.23-00.21.02:523][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.23-00.21.02:523][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.23-00.21.02:672][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/' took 0.07s
+[2020.04.23-00.21.02:672][  0]LogStats: FGameplayAbilitiesEditorModule::GameplayTagTreeChanged -  0.000 s
+[2020.04.23-00.21.03:179][  0]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.007 s
+[2020.04.23-00.21.03:447][  0]SourceControl: Source control is disabled
+[2020.04.23-00.21.03:449][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/ActionRPG_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-00.21.03:465][  0]LightingResults: New page: Lighting Build
+[2020.04.23-00.21.03:480][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.21.03:482][  0]MapCheck: New page: Map Check
+[2020.04.23-00.21.03:483][  0]LightingResults: New page: Lighting Build
+[2020.04.23-00.21.03:594][  0]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.04.23-00.21.25:122][  0]LogAIModule: Creating AISystem for world ActionRPG_P
+[2020.04.23-00.21.25:223][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
+[2020.04.23-00.21.25:223][  0]LogStreaming: Display: Flushing async loaders.
+[2020.04.23-00.21.25:800][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
+[2020.04.23-00.21.25:823][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-00.21.25:965][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.12ms
+[2020.04.23-00.21.25:966][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-00.21.25:967][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.197ms to complete.
+[2020.04.23-00.21.25:967][  0]LogFileHelpers: Loading map 'ActionRPG_P' took 22.518
+[2020.04.23-00.21.26:407][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-00.21.26:427][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-00.21.26:447][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-00.21.26:471][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-00.21.26:520][  0]LogCollectionManager: Loaded 0 collections in 0.006115 seconds
+[2020.04.23-00.21.26:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Saved/Collections/' took 0.00s
+[2020.04.23-00.21.26:561][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Developers/UpperSchool/Collections/' took 0.00s
+[2020.04.23-00.21.26:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Collections/' took 0.00s
+[2020.04.23-00.21.26:562][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000004 seconds
+[2020.04.23-00.21.26:590][  0]LogContentBrowser: Native class hierarchy populated in 0.0250 seconds. Added 2821 classes and 583 folders.
+[2020.04.23-00.21.26:622][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.04.23-00.21.27:529][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2020.04.23-00.21.27:557][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2020.04.23-00.21.28:052][  0]LogSlate: Took 0.016725 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.23-00.21.28:074][  0]LogSlate: Took 0.014863 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.23-00.21.28:108][  0]LogSlate: Took 0.016520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.23-00.21.28:491][  0]LogRenderer: Reallocating scene render targets to support 1264x628 Format 10 NumSamples 1 (Frame:1).
+[2020.04.23-00.21.28:625][  0]LogSlate: Took 0.013040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-00.21.28:858][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2020.04.23-00.21.28:858][  0]LogLoad: (Engine Initialization) Total time: 80.29 seconds
+[2020.04.23-00.21.28:858][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.23-00.21.29:267][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.23-00.21.32:095][ 37]LogAssetRegistry: Asset discovery search completed in 52.6281 seconds
+[2020.04.23-00.21.32:102][ 37]LogStats: UGameplayCueManager::InitializeEditorObjectLibrary -  0.007 s
+[2020.04.23-00.21.32:128][ 37]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000015 seconds (found 0 objects)
+[2020.04.23-00.21.32:128][ 37]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000146 seconds (updated 0 objects)
+[2020.04.23-00.22.06:592][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-00.22.16:848][267]LogSlate: Took 0.000373 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.23-00.22.18:163][267]LogAIModule: Creating AISystem for world Subway_Level
+[2020.04.23-00.22.18:212][267]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Subway_Level.Subway_Level
+[2020.04.23-00.22.18:303][267]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.04.23-00.22.18:307][267]Cmd: MAP LOAD FILE="../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/Maps/Subway_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-00.22.18:307][267]LightingResults: New page: Lighting Build
+[2020.04.23-00.22.18:308][267]LoadErrors: New page: Loading map: Subway_Level.umap
+[2020.04.23-00.22.18:310][267]LogWorld: UWorld::CleanupWorld for ActionRPG_P, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.22.18:310][267]LogWorld: UWorld::CleanupWorld for ActionRPG_Dungeon02_Asset, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.22.18:311][267]LogWorld: UWorld::CleanupWorld for ActionRPG_Dungeon02_Lights, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.22.18:311][267]MapCheck: New page: Map Check
+[2020.04.23-00.22.18:311][267]LightingResults: New page: Lighting Build
+[2020.04.23-00.22.18:398][267]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2020.04.23-00.22.18:981][267]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
+[2020.04.23-00.22.18:981][267]LogStreaming: Display: Flushing async loaders.
+[2020.04.23-00.22.18:993][267]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
+[2020.04.23-00.22.19:467][267]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-00.22.19:469][267]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-11160.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.04.23-00.22.19:573][267]LogUObjectHash: Compacting FUObjectHashTables data took   5.15ms
+[2020.04.23-00.22.19:690][267]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-00.22.19:694][267]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4.317ms to complete.
+[2020.04.23-00.22.19:694][267]LogFileHelpers: Loading map 'Subway_Level' took 1.389
+[2020.04.23-00.22.19:923][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.04.23-00.22.29:173][467]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={67355EEE-47C9-0746-A590-02AC57155B85}
+[2020.04.23-00.22.52:449][540]LogEditorViewport: Clicking on Actor (LMB): spine_C (spine2)
+[2020.04.23-00.22.54:641][588]Cmd: SELECT NONE
+[2020.04.23-00.23.36:482][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-00.23.40:178][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-00.26.04:742][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Dance' for  InputAction Dance
+[2020.04.23-00.26.04:742][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2020.04.23-00.26.04:743][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUpRate' for  InputAxis LookUpRate
+[2020.04.23-00.26.04:743][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'TurnRate' for  InputAxis TurnRate
+[2020.04.23-00.26.04:744][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'LookUp' for  InputAxis LookUp
+[2020.04.23-00.26.04:745][369]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] Input Axis Event references unknown Axis 'Turn' for  InputAxis Turn
+[2020.04.23-00.26.12:206][369]LogTexture: Display: Building textures: TX_lut_02 (BGRA8, 256X16)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_bokeh_shape_01_ALB (BGRA8, 256X256)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_metal_dull_01_RMA (AutoDXT, 1024X1024)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_poles_NRM (BC5, 512X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_poles_ALB (AutoDXT, 512X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_poles_RMA (DXT1, 512X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_floor_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_ceilingpanel_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_floor_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_ceilingpanel_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_floor_02_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_ceilingpanel_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogTexture: Display: Building textures: TX_ads_02_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.12:207][369]LogStaticMesh: Building static mesh SM_window_interior_marquee_01...
+[2020.04.23-00.26.12:385][369]LogStaticMesh: Built static mesh [0.18s] /Game/SubwayTrain/Meshes/Structure/SM_window_interior_marquee_01.SM_window_interior_marquee_01
+[2020.04.23-00.26.12:474][369]LogTexture: Display: Building textures: TX_windowdirt_ALB (AutoDXT, 1024X128)
+[2020.04.23-00.26.13:004][369]LogMaterial: Display: Missing cached shader map for material MM_window_dirt_01, compiling. 
+[2020.04.23-00.26.14:147][369]LogTexture: Display: Building textures: TX_ads_02_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.14:147][369]LogTexture: Display: Building textures: TX_hardware_ALB (DXT1, 2048X2048)
+[2020.04.23-00.26.14:148][369]LogTexture: Display: Building textures: TX_hardware_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.14:148][369]LogStaticMesh: Building static mesh SM_window_edgedirt_05...
+[2020.04.23-00.26.14:149][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Structure/SM_window_edgedirt_05.SM_window_edgedirt_05
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.04.23-00.26.14:156][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2020.04.23-00.26.16:411][369]LogTexture: Display: Building textures: TX_metaltrim_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.16:411][369]LogTexture: Display: Building textures: TX_metaltrim_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.16:411][369]LogTexture: Display: Building textures: TX_metaltrim_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.16:411][369]LogTexture: Display: Building textures: TX_umbrella (RGBA16F, 256X1)
+[2020.04.23-00.26.16:412][369]LogTexture: Display: Building textures: TX_headlights_01_NRM (AutoDXT, 256X256)
+[2020.04.23-00.26.16:412][369]LogStaticMesh: Building static mesh SM_wall_end_01...
+[2020.04.23-00.26.16:418][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_wall_end_01.SM_wall_end_01
+[2020.04.23-00.26.16:433][369]LogStaticMesh: Building static mesh SM_wall_corner_01...
+[2020.04.23-00.26.16:760][369]LogStaticMesh: Built static mesh [0.33s] /Game/SubwayTrain/Meshes/Structure/SM_wall_corner_01.SM_wall_corner_01
+[2020.04.23-00.26.16:856][369]LogStaticMesh: Building static mesh SM_pole_02...
+[2020.04.23-00.26.17:420][369]LogTexture: Display: Building textures: TX_wallpanel_02_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.17:420][369]LogStaticMesh: Built static mesh [0.57s] /Game/SubwayTrain/Meshes/Structure/SM_pole_02.SM_pole_02
+[2020.04.23-00.26.17:496][369]LogTexture: Display: Building textures: TX_microdetail_M (AutoDXT, 512X512)
+[2020.04.23-00.26.20:544][369]LogTexture: Display: Building textures: TX_ext_trim_01_RMA (AutoDXT, 2048X1024)
+[2020.04.23-00.26.20:544][369]LogTexture: Display: Building textures: TX_soft_smoke_M (AutoDXT, 1024X1024)
+[2020.04.23-00.26.21:000][369]LogTexture: Display: Building textures: TX_godray_01_M (AutoDXT, 512X1024)
+[2020.04.23-00.26.21:000][369]LogTexture: Display: Building textures: TX_metal_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.26:571][369]LogTexture: Display: Building textures: TX_trims_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.26:572][369]LogTexture: Display: Building textures: TX_trims_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.26:572][369]LogTexture: Display: Building textures: TX_metal_02_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.26:572][369]LogTexture: Display: Building textures: TX_metal_02_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.26:572][369]LogTexture: Display: Building textures: TX_metal_02_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.26:572][369]LogTexture: Display: Building textures: TX_fireex_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.26:645][369]LogTexture: Display: Building textures: TX_floortrash_01_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.26.27:443][369]LogTexture: Display: Building textures: TX_floortrash_01_NRM (BC5, 1024X1024)
+[2020.04.23-00.26.27:986][369]LogTexture: Display: Building textures: TX_microdetail_02_M (AutoDXT, 1024X1024)
+[2020.04.23-00.26.28:136][369]LogTexture: Display: Building textures: TX_floortrash_01_RMA (AutoDXT, 1024X1024)
+[2020.04.23-00.26.30:397][369]LogTexture: Display: Building textures: TX_hardware_RMA (DXT1, 2048X2048)
+[2020.04.23-00.26.30:571][369]LogTexture: Display: Building textures: TX_dirtyoverlay_01_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.26.42:177][369]LogTexture: Display: Building textures: TX_cca_train_sticker_01 (AutoDXT, 512X256)
+[2020.04.23-00.26.42:177][369]LogTexture: Display: Building textures: TX_overheadlight_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:177][369]LogTexture: Display: Building textures: TX_ads_02_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:177][369]LogTexture: Display: Building textures: TX_ads_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:177][369]LogTexture: Display: Building textures: TX_ads_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_metal_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_metal_dull_01_NRM (BC5, 1024X1024)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_metal_dull_01_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_extpanel_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_extpanel_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_wallpanel_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_wallpanel_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_extpanel_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_donotholddoors_ALB (AutoDXT, 512X128)
+[2020.04.23-00.26.42:178][369]LogTexture: Display: Building textures: TX_trims_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.42:201][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.26.42:789][369]LogTexture: Display: Building textures: TX_donotleanondoors_ALB (AutoDXT, 512X128)
+[2020.04.23-00.26.42:789][369]LogTexture: Display: Building textures: TX_airconditioned_ALB (AutoDXT, 512X128)
+[2020.04.23-00.26.42:789][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.26.43:097][369]LogTexture: Display: Building textures: TX_wallpanel_02_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.43:097][369]LogStaticMesh: Building static mesh SM_pole_01...
+[2020.04.23-00.26.43:175][369]LogStaticMesh: Built static mesh [0.08s] /Game/SubwayTrain/Meshes/Structure/SM_pole_01.SM_pole_01
+[2020.04.23-00.26.43:208][369]LogStaticMesh: Building static mesh SM_int_wall_end_01...
+[2020.04.23-00.26.43:645][369]LogStaticMesh: Built static mesh [0.44s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_end_01.SM_int_wall_end_01
+[2020.04.23-00.26.43:666][369]LogStaticMesh: Building static mesh SM_int_wall_cornerunit_01...
+[2020.04.23-00.26.43:749][369]LogStaticMesh: Built static mesh [0.08s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_cornerunit_01.SM_int_wall_cornerunit_01
+[2020.04.23-00.26.43:759][369]LogStaticMesh: Building static mesh SM_int_floor_300_01...
+[2020.04.23-00.26.43:784][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_int_floor_300_01.SM_int_floor_300_01
+[2020.04.23-00.26.43:800][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.26.44:034][369]LogStaticMesh: Building static mesh SM_int_floor_150_01...
+[2020.04.23-00.26.44:043][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_int_floor_150_01.SM_int_floor_150_01
+[2020.04.23-00.26.44:053][369]LogStaticMesh: Building static mesh SM_ext_wall_50_01...
+[2020.04.23-00.26.44:065][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_ext_wall_50_01.SM_ext_wall_50_01
+[2020.04.23-00.26.44:070][369]LogStaticMesh: Building static mesh SM_ext_roof_200_01...
+[2020.04.23-00.26.44:135][369]LogStaticMesh: Built static mesh [0.07s] /Game/SubwayTrain/Meshes/Structure/SM_ext_roof_200_01.SM_ext_roof_200_01
+[2020.04.23-00.26.44:145][369]LogStaticMesh: Building static mesh SM_ext_roof_100_01...
+[2020.04.23-00.26.44:172][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_ext_roof_100_01.SM_ext_roof_100_01
+[2020.04.23-00.26.44:184][369]LogStaticMesh: Building static mesh SM_int_ceiling_300_02...
+[2020.04.23-00.26.44:264][369]LogStaticMesh: Built static mesh [0.08s] /Game/SubwayTrain/Meshes/Structure/SM_int_ceiling_300_02.SM_int_ceiling_300_02
+[2020.04.23-00.26.44:276][369]LogStaticMesh: Building static mesh SM_int_ceiling_300_01...
+[2020.04.23-00.26.44:367][369]LogStaticMesh: Built static mesh [0.09s] /Game/SubwayTrain/Meshes/Structure/SM_int_ceiling_300_01.SM_int_ceiling_300_01
+[2020.04.23-00.26.44:384][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.26.44:657][369]LogStaticMesh: Building static mesh SM_ext_floor_300_01...
+[2020.04.23-00.26.44:660][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Structure/SM_ext_floor_300_01.SM_ext_floor_300_01
+[2020.04.23-00.26.44:668][369]LogStaticMesh: Building static mesh SM_ext_floor_200_01...
+[2020.04.23-00.26.44:675][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_ext_floor_200_01.SM_ext_floor_200_01
+[2020.04.23-00.26.51:037][369]LogTexture: Display: Building textures: TX_wallpanel_02_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_vents_RMA (AutoDXT, 1024X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_vents_NRM (BC5, 1024X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_vents_ALB (AutoDXT, 1024X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_fireex_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_fireex_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_bogie_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_ads_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_bogie_NRM (BC5, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogTexture: Display: Building textures: TX_bogie_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.26.51:038][369]LogDerivedDataCache: Warning: C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/6/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_8C5042FA480CCBC5A__3A7D26D3EBB70F37CE1B01608749EB5230342E15.udd, consider disabling it.
+[2020.04.23-00.26.51:046][369]LogStaticMesh: Building static mesh SM_chair_metalring_01...
+[2020.04.23-00.26.51:061][369]LogStaticMesh: Built static mesh [0.02s] /Game/SubwayTrain/Meshes/Structure/SM_chair_metalring_01.SM_chair_metalring_01
+[2020.04.23-00.26.51:103][369]LogStaticMesh: Building static mesh SM_int_wall_curvedmarquee_300_01...
+[2020.04.23-00.26.51:168][369]LogStaticMesh: Built static mesh [0.07s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_curvedmarquee_300_01.SM_int_wall_curvedmarquee_300_01
+[2020.04.23-00.26.51:202][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.26.51:550][369]LogStaticMesh: Building static mesh SM_door_end_01...
+[2020.04.23-00.26.51:708][369]LogStaticMesh: Built static mesh [0.16s] /Game/SubwayTrain/Meshes/Structure/SM_door_end_01.SM_door_end_01
+[2020.04.23-00.26.51:730][369]LogStaticMesh: Building static mesh SM_window_edgedirt_04...
+[2020.04.23-00.26.51:756][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_window_edgedirt_04.SM_window_edgedirt_04
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_chair_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_chair_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_chair_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_woodenpanel_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_papers_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.27.01:857][369]LogTexture: Display: Building textures: TX_papers_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.01:857][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.02:423][369]LogTexture: Display: Building textures: TX_trash_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.27.02:423][369]LogStaticMesh: Building static mesh SM_underbody_bogie_01...
+[2020.04.23-00.27.03:784][369]LogTexture: Display: Building textures: TX_papers_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.03:784][369]LogStaticMesh: Built static mesh [1.36s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_bogie_01.SM_underbody_bogie_01
+[2020.04.23-00.27.03:866][369]LogStaticMesh: Building static mesh SM_underbody_bar_01...
+[2020.04.23-00.27.03:903][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_bar_01.SM_underbody_bar_01
+[2020.04.23-00.27.04:120][369]LogStaticMesh: Building static mesh SM_underbody_anchor_01...
+[2020.04.23-00.27.04:251][369]LogStaticMesh: Built static mesh [0.13s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_anchor_01.SM_underbody_anchor_01
+[2020.04.23-00.27.04:298][369]LogStaticMesh: Building static mesh SM_underbody_02...
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_trash_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_trash_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_sticker_05_ALB (AutoDXT, 256X128)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_sticker_04_ALB (AutoDXT, 256X256)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_sticker_03_ALB (AutoDXT, 256X256)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_sticker_02_ALB (AutoDXT, 256X256)
+[2020.04.23-00.27.11:164][369]LogTexture: Display: Building textures: TX_sticker_01_ALB (AutoDXT, 256X256)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_09_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_08_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_07_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_06_ALB (AutoDXT, 1024X512)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_05_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_04_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_03_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_02_ALB (AutoDXT, 1024X512)
+[2020.04.23-00.27.11:165][369]LogTexture: Display: Building textures: TX_grad_01_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_doorscratches_ALB (AutoDXT, 1024X512)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_r9_ALB (AutoDXT, 128X128)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_nopriority_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_presstotalk_ALB (AutoDXT, 256X256)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_nosmoking_ALB (AutoDXT, 512X512)
+[2020.04.23-00.27.11:166][369]LogTexture: Display: Building textures: TX_noexit_ALB (AutoDXT, 512X512)
+[2020.04.23-00.27.11:167][369]LogDerivedDataCache: Warning: C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/7/MESHDATAKEY_STATICMESH_6E342F4997294EBEA9FB3ED1E8CF5D3B_80BA423ABDEA4E7BAACB017D1672DD8F.udd, consider disabling it.
+[2020.04.23-00.27.11:197][369]LogStaticMesh: Built static mesh [6.90s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_02.SM_underbody_02
+[2020.04.23-00.27.11:241][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.11:604][369]LogTexture: Display: Building textures: TX_noeating_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.11:604][369]LogTexture: Display: Building textures: TX_inmetrostation_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.11:605][369]LogTexture: Display: Building textures: TX_fireexinside_ALB (AutoDXT, 256X128)
+[2020.04.23-00.27.11:605][369]LogTexture: Display: Building textures: TX_ebreak_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.11:605][369]LogStaticMesh: Building static mesh SM_underbody_01...
+[2020.04.23-00.27.11:655][369]LogTexture: Display: Building textures: TX_cca_sticker_02_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.11:655][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_01.SM_underbody_01
+[2020.04.23-00.27.11:695][369]LogStaticMesh: Building static mesh SM_underbody_box_01...
+[2020.04.23-00.27.12:040][369]LogTexture: Display: Building textures: TX_c30_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.12:040][369]LogTexture: Display: Building textures: TX_8805_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.12:040][369]LogStaticMesh: Built static mesh [0.35s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_box_01.SM_underbody_box_01
+[2020.04.23-00.27.14:117][369]LogTexture: Display: Building textures: TX_gradient_01 (BGRA8, 256X256)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_panel_01_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_ext_trim_01_NRM (BC5, 2048X1024)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_overheadlight_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_overheadlight_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_panel_01_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_panel_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_ext_trim_01_ALB (AutoDXT, 2048X1024)
+[2020.04.23-00.27.14:118][369]LogTexture: Display: Building textures: TX_scrollingmarquee_M (BGRA8, 4096X128)
+[2020.04.23-00.27.14:118][369]LogStaticMesh: Building static mesh SM_underbody_box_02...
+[2020.04.23-00.27.14:408][369]LogTexture: Display: Building textures: TX_scrollingmarquee_fill_M (AutoDXT, 256X256)
+[2020.04.23-00.27.14:408][369]LogStaticMesh: Built static mesh [0.29s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_box_02.SM_underbody_box_02
+[2020.04.23-00.27.14:463][369]LogStaticMesh: Building static mesh SM_underbody_box_03...
+[2020.04.23-00.27.14:835][369]LogStaticMesh: Built static mesh [0.38s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_box_03.SM_underbody_box_03
+[2020.04.23-00.27.14:865][369]LogStaticMesh: Building static mesh SM_underbody_ladder_01...
+[2020.04.23-00.27.14:896][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_ladder_01.SM_underbody_ladder_01
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_decal_ext_flag_01_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_ext_part_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_ext_part_RMA (AutoDXT, 2048X2048)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_ext_part_NRM (BC5, 2048X2048)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_decal_ext_number_01_ALB (AutoDXT, 512X256)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_wallattachments_01_NRM (BC5, 1024X1024)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_wallattachments_01_ALB (AutoDXT, 1024X1024)
+[2020.04.23-00.27.19:017][369]LogTexture: Display: Building textures: TX_wallpanel_01_ALB (AutoDXT, 2048X2048)
+[2020.04.23-00.27.19:017][369]LogStaticMesh: Building static mesh SM_underbody_tube_01...
+[2020.04.23-00.27.19:108][369]LogStaticMesh: Built static mesh [0.09s] /Game/SubwayTrain/Meshes/Structure/SM_underbody_tube_01.SM_underbody_tube_01
+[2020.04.23-00.27.19:872][369]LogMaterial: Display: Missing cached shader map for material MM_emissive_headlights_01, compiling. 
+[2020.04.23-00.27.20:188][369]LogStaticMesh: Building static mesh SM_ext_endwall_lights_01...
+[2020.04.23-00.27.20:242][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Structure/SM_ext_endwall_lights_01.SM_ext_endwall_lights_01
+[2020.04.23-00.27.20:298][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.20:688][369]LogTexture: Display: Building textures: TX_wallattachments_01_RMA (AutoDXT, 1024X1024)
+[2020.04.23-00.27.20:688][369]LogStaticMesh: Building static mesh SM_overheadlight_01...
+[2020.04.23-00.27.20:717][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_overheadlight_01.SM_overheadlight_01
+[2020.04.23-00.27.20:742][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.21:191][369]LogStaticMesh: Building static mesh SM_ebreak_01...
+[2020.04.23-00.27.21:303][369]LogTexture: Display: Building textures: TX_cubemap_01_ALB (RGBA16F, 512X512)
+[2020.04.23-00.27.21:303][369]LogStaticMesh: Built static mesh [0.11s] /Game/SubwayTrain/Meshes/Structure/SM_ebreak_01.SM_ebreak_01
+[2020.04.23-00.27.21:359][369]LogStaticMesh: Building static mesh SM_fireex...
+[2020.04.23-00.27.21:442][369]LogStaticMesh: Built static mesh [0.08s] /Game/SubwayTrain/Meshes/Props/SM_fireex.SM_fireex
+[2020.04.23-00.27.21:456][369]LogStaticMesh: Building static mesh SM_fireex_glass_01...
+[2020.04.23-00.27.21:457][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_fireex_glass_01.SM_fireex_glass_01
+[2020.04.23-00.27.21:666][369]LogStaticMesh: Building static mesh SM_int_wall_endcorner_02...
+[2020.04.23-00.27.21:800][369]LogTexture: Display: Building textures: TX_glass_02_ALB2 (AutoDXT, 2048X2048)
+[2020.04.23-00.27.21:800][369]LogStaticMesh: Built static mesh [0.13s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_endcorner_02.SM_int_wall_endcorner_02
+[2020.04.23-00.27.21:866][369]LogStaticMesh: Building static mesh SM_vent_01...
+[2020.04.23-00.27.21:876][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Props/SM_vent_01.SM_vent_01
+[2020.04.23-00.27.21:882][369]LogStaticMesh: Building static mesh SM_vent_03...
+[2020.04.23-00.27.21:890][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_vent_03.SM_vent_03
+[2020.04.23-00.27.21:901][369]LogStaticMesh: Building static mesh SM_wall_lock_01...
+[2020.04.23-00.27.21:904][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_wall_lock_01.SM_wall_lock_01
+[2020.04.23-00.27.22:385][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.22:387][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Masters\MM_Decal_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.22:388][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.22:398][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.22:564][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_donotlean.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.22:564][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.22:587][369]LogStaticMesh: Building static mesh SM_fog_plane_01...
+[2020.04.23-00.27.22:588][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Misc/SM_fog_plane_01.SM_fog_plane_01
+[2020.04.23-00.27.23:835][369]LogStaticMesh: Building static mesh SM_chair_01a...
+[2020.04.23-00.27.23:899][369]LogStaticMesh: Built static mesh [1.24s] /Game/SubwayTrain/Meshes/Structure/SM_chair_01a.SM_chair_01a
+[2020.04.23-00.27.24:014][369]LogStaticMesh: Building static mesh SM_chair_01b...
+[2020.04.23-00.27.24:066][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Structure/SM_chair_01b.SM_chair_01b
+[2020.04.23-00.27.25:314][369]LogStaticMesh: Building static mesh SM_ext_doorchains_01...
+[2020.04.23-00.27.25:802][369]LogStaticMesh: Built static mesh [0.49s] /Game/SubwayTrain/Meshes/Structure/SM_ext_doorchains_01.SM_ext_doorchains_01
+[2020.04.23-00.27.25:907][369]LogStaticMesh: Building static mesh SM_wallposter_03...
+[2020.04.23-00.27.25:966][369]LogStaticMesh: Built static mesh [0.06s] /Game/SubwayTrain/Meshes/Props/SM_wallposter_03.SM_wallposter_03
+[2020.04.23-00.27.25:972][369]LogStaticMesh: Building static mesh SM_wall_speaker_03...
+[2020.04.23-00.27.25:975][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_wall_speaker_03.SM_wall_speaker_03
+[2020.04.23-00.27.25:997][369]LogStaticMesh: Building static mesh SM_polyplane_01...
+[2020.04.23-00.27.25:999][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Misc/SM_polyplane_01.SM_polyplane_01
+[2020.04.23-00.27.26:012][369]LogStaticMesh: Building static mesh SM_trash_can_02...
+[2020.04.23-00.27.26:041][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Props/SM_trash_can_02.SM_trash_can_02
+[2020.04.23-00.27.26:051][369]LogStaticMesh: Building static mesh SM_trash_paper_02...
+[2020.04.23-00.27.26:056][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_02.SM_trash_paper_02
+[2020.04.23-00.27.26:059][369]LogStaticMesh: Building static mesh SM_trash_paper_ticket_01...
+[2020.04.23-00.27.26:063][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_ticket_01.SM_trash_paper_ticket_01
+[2020.04.23-00.27.26:067][369]LogStaticMesh: Building static mesh SM_trash_paper_ticket_03...
+[2020.04.23-00.27.26:070][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_ticket_03.SM_trash_paper_ticket_03
+[2020.04.23-00.27.26:074][369]LogStaticMesh: Building static mesh SM_trash_paper_ticket_04...
+[2020.04.23-00.27.26:081][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_ticket_04.SM_trash_paper_ticket_04
+[2020.04.23-00.27.26:125][369]LogStaticMesh: Building static mesh SM_trash_paper_wrapper_03...
+[2020.04.23-00.27.26:129][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_wrapper_03.SM_trash_paper_wrapper_03
+[2020.04.23-00.27.26:134][369]LogStaticMesh: Building static mesh SM_trash_plastic_bag_01...
+[2020.04.23-00.27.26:138][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_plastic_bag_01.SM_trash_plastic_bag_01
+[2020.04.23-00.27.26:142][369]LogStaticMesh: Building static mesh SM_vent_02...
+[2020.04.23-00.27.26:152][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_vent_02.SM_vent_02
+[2020.04.23-00.27.26:165][369]LogStaticMesh: Building static mesh SM_trash_bottle_01...
+[2020.04.23-00.27.26:186][369]LogStaticMesh: Built static mesh [0.02s] /Game/SubwayTrain/Meshes/Props/SM_trash_bottle_01.SM_trash_bottle_01
+[2020.04.23-00.27.26:217][369]LogStaticMesh: Building static mesh SM_trash_bottle_02...
+[2020.04.23-00.27.26:245][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Props/SM_trash_bottle_02.SM_trash_bottle_02
+[2020.04.23-00.27.26:264][369]LogStaticMesh: Building static mesh SM_trash_bottle_03...
+[2020.04.23-00.27.26:286][369]LogStaticMesh: Built static mesh [0.02s] /Game/SubwayTrain/Meshes/Props/SM_trash_bottle_03.SM_trash_bottle_03
+[2020.04.23-00.27.26:295][369]LogStaticMesh: Building static mesh SM_trash_can_01...
+[2020.04.23-00.27.26:309][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_can_01.SM_trash_can_01
+[2020.04.23-00.27.26:317][369]LogStaticMesh: Building static mesh SM_trash_cigs_01...
+[2020.04.23-00.27.26:321][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_cigs_01.SM_trash_cigs_01
+[2020.04.23-00.27.26:336][369]LogStaticMesh: Building static mesh SM_trash_cup_01...
+[2020.04.23-00.27.26:413][369]LogStaticMesh: Built static mesh [0.08s] /Game/SubwayTrain/Meshes/Props/SM_trash_cup_01.SM_trash_cup_01
+[2020.04.23-00.27.26:458][369]LogStaticMesh: Building static mesh SM_trash_cup_02...
+[2020.04.23-00.27.26:505][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Props/SM_trash_cup_02.SM_trash_cup_02
+[2020.04.23-00.27.26:525][369]LogStaticMesh: Building static mesh SM_trash_cup_04...
+[2020.04.23-00.27.26:588][369]LogStaticMesh: Built static mesh [0.06s] /Game/SubwayTrain/Meshes/Props/SM_trash_cup_04.SM_trash_cup_04
+[2020.04.23-00.27.26:595][369]LogStaticMesh: Building static mesh SM_trash_lid_01...
+[2020.04.23-00.27.26:606][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_lid_01.SM_trash_lid_01
+[2020.04.23-00.27.26:622][369]LogStaticMesh: Building static mesh SM_trash_paper_01...
+[2020.04.23-00.27.26:660][369]LogStaticMesh: Built static mesh [0.04s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_01.SM_trash_paper_01
+[2020.04.23-00.27.26:872][369]LogStaticMesh: Building static mesh SM_trash_paper_04...
+[2020.04.23-00.27.26:875][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_04.SM_trash_paper_04
+[2020.04.23-00.27.26:886][369]LogStaticMesh: Building static mesh SM_trash_paper_06...
+[2020.04.23-00.27.26:889][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_06.SM_trash_paper_06
+[2020.04.23-00.27.26:894][369]LogStaticMesh: Building static mesh SM_trash_paper_ticket_02...
+[2020.04.23-00.27.26:897][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_ticket_02.SM_trash_paper_ticket_02
+[2020.04.23-00.27.27:679][369]LogStaticMesh: Building static mesh SM_trash_paper_wrapper_02...
+[2020.04.23-00.27.27:682][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_wrapper_02.SM_trash_paper_wrapper_02
+[2020.04.23-00.27.27:688][369]LogStaticMesh: Building static mesh SM_trash_paper_wrapper_07...
+[2020.04.23-00.27.27:691][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_wrapper_07.SM_trash_paper_wrapper_07
+[2020.04.23-00.27.27:893][369]LogStaticMesh: Building static mesh SM_trash_paper_wrapper_05...
+[2020.04.23-00.27.27:896][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Props/SM_trash_paper_wrapper_05.SM_trash_paper_wrapper_05
+[2020.04.23-00.27.27:907][369]LogStaticMesh: Building static mesh SM_ext_doorplate_01...
+[2020.04.23-00.27.27:915][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_ext_doorplate_01.SM_ext_doorplate_01
+[2020.04.23-00.27.27:988][369]LogStaticMesh: Building static mesh SM_wall_doorway_01...
+[2020.04.23-00.27.28:820][369]LogStaticMesh: Built static mesh [0.83s] /Game/SubwayTrain/Meshes/Structure/SM_wall_doorway_01.SM_wall_doorway_01
+[2020.04.23-00.27.29:150][369]LogStaticMesh: Building static mesh SM_door_wall_01...
+[2020.04.23-00.27.29:692][369]LogStaticMesh: Built static mesh [0.54s] /Game/SubwayTrain/Meshes/Structure/SM_door_wall_01.SM_door_wall_01
+[2020.04.23-00.27.29:772][369]LogStaticMesh: Building static mesh SM_door_wall_02...
+[2020.04.23-00.27.30:230][369]LogStaticMesh: Built static mesh [0.46s] /Game/SubwayTrain/Meshes/Structure/SM_door_wall_02.SM_door_wall_02
+[2020.04.23-00.27.30:363][369]LogStaticMesh: Building static mesh SM_wall_speaker_01...
+[2020.04.23-00.27.30:368][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_wall_speaker_01.SM_wall_speaker_01
+[2020.04.23-00.27.30:375][369]LogStaticMesh: Building static mesh SM_wall_speaker_02...
+[2020.04.23-00.27.30:414][369]LogStaticMesh: Built static mesh [0.04s] /Game/SubwayTrain/Meshes/Props/SM_wall_speaker_02.SM_wall_speaker_02
+[2020.04.23-00.27.30:422][369]LogStaticMesh: Building static mesh SM_wall_light_01...
+[2020.04.23-00.27.30:434][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Props/SM_wall_light_01.SM_wall_light_01
+[2020.04.23-00.27.30:588][369]LogStaticMesh: Building static mesh SM_ext_wall_window_200_01...
+[2020.04.23-00.27.30:618][369]LogStaticMesh: Built static mesh [0.03s] /Game/SubwayTrain/Meshes/Structure/SM_ext_wall_window_200_01.SM_ext_wall_window_200_01
+[2020.04.23-00.27.30:627][369]LogStaticMesh: Building static mesh SM_window_edgedirt_01...
+[2020.04.23-00.27.30:630][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Structure/SM_window_edgedirt_01.SM_window_edgedirt_01
+[2020.04.23-00.27.31:236][369]LogStaticMesh: Building static mesh SM_int_wall_window_200_01...
+[2020.04.23-00.27.32:036][369]LogStaticMesh: Built static mesh [0.80s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_window_200_01.SM_int_wall_window_200_01
+[2020.04.23-00.27.32:090][369]LogStaticMesh: Building static mesh SM_ext_wall_150_01...
+[2020.04.23-00.27.32:137][369]LogStaticMesh: Built static mesh [0.05s] /Game/SubwayTrain/Meshes/Structure/SM_ext_wall_150_01.SM_ext_wall_150_01
+[2020.04.23-00.27.32:157][369]LogStaticMesh: Building static mesh SM_int_wall_150_01...
+[2020.04.23-00.27.32:212][369]LogStaticMesh: Built static mesh [0.06s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_150_01.SM_int_wall_150_01
+[2020.04.23-00.27.32:220][369]LogStaticMesh: Building static mesh SM_ext_wall_100_01...
+[2020.04.23-00.27.32:233][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_ext_wall_100_01.SM_ext_wall_100_01
+[2020.04.23-00.27.32:305][369]LogStaticMesh: Building static mesh SM_int_wall_100_01...
+[2020.04.23-00.27.32:411][369]LogStaticMesh: Built static mesh [0.11s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_100_01.SM_int_wall_100_01
+[2020.04.23-00.27.32:422][369]LogStaticMesh: Building static mesh SM_window_edgedirt_03...
+[2020.04.23-00.27.32:432][369]LogStaticMesh: Built static mesh [0.01s] /Game/SubwayTrain/Meshes/Structure/SM_window_edgedirt_03.SM_window_edgedirt_03
+[2020.04.23-00.27.32:435][369]LogStaticMesh: Building static mesh SM_int_wall_window_200_02...
+[2020.04.23-00.27.33:446][369]LogStaticMesh: Built static mesh [1.01s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_window_200_02.SM_int_wall_window_200_02
+[2020.04.23-00.27.33:553][369]LogStaticMesh: Building static mesh SM_int_wall_curverdmarquee_150_01...
+[2020.04.23-00.27.33:680][369]LogStaticMesh: Built static mesh [0.13s] /Game/SubwayTrain/Meshes/Structure/SM_int_wall_curverdmarquee_150_01.SM_int_wall_curverdmarquee_150_01
+[2020.04.23-00.27.33:724][369]LogStaticMesh: Building static mesh SM_int_ceiling_200_01...
+[2020.04.23-00.27.33:920][369]LogStaticMesh: Built static mesh [0.20s] /Game/SubwayTrain/Meshes/Structure/SM_int_ceiling_200_01.SM_int_ceiling_200_01
+[2020.04.23-00.27.33:935][369]LogStaticMesh: Building static mesh SM_ext_wall_window_150_01...
+[2020.04.23-00.27.34:036][369]LogStaticMesh: Built static mesh [0.10s] /Game/SubwayTrain/Meshes/Structure/SM_ext_wall_window_150_01.SM_ext_wall_window_150_01
+[2020.04.23-00.27.34:041][369]LogStaticMesh: Building static mesh SM_window_edgedirt_02...
+[2020.04.23-00.27.34:042][369]LogStaticMesh: Built static mesh [0.00s] /Game/SubwayTrain/Meshes/Structure/SM_window_edgedirt_02.SM_window_edgedirt_02
+[2020.04.23-00.27.35:230][369]LogStaticMesh: Building static mesh SM_wallposter_01...
+[2020.04.23-00.27.35:322][369]LogStaticMesh: Built static mesh [0.09s] /Game/SubwayTrain/Meshes/Props/SM_wallposter_01.SM_wallposter_01
+[2020.04.23-00.27.35:346][369]LogStaticMesh: Building static mesh SM_wallposter_02...
+[2020.04.23-00.27.35:470][369]LogStaticMesh: Built static mesh [0.12s] /Game/SubwayTrain/Meshes/Props/SM_wallposter_02.SM_wallposter_02
+[2020.04.23-00.27.35:492][369]LogMaterial: Display: Missing cached shader map for material MM_god_ray_01, compiling. 
+[2020.04.23-00.27.35:590][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.35:602][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_8805_01b.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.35:602][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.35:622][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.35:629][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_CCA_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.35:629][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.35:651][369]LogMaterial: Display: Missing cached shader map for material MM_ads_uv_offset_01, compiling. 
+[2020.04.23-00.27.35:787][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.36:187][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.36:669][369]LogMaterial: Display: Missing cached shader map for material MM_ads_uv_offset_01, compiling. 
+[2020.04.23-00.27.36:839][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.37:142][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.37:145][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_donothold.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.37:146][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.37:184][369]LogMaterial: Display: Missing cached shader map for material MM_glass_02, compiling. 
+[2020.04.23-00.27.37:352][369]LogMaterial: Display: Missing cached shader map for material MM_glass_02, compiling. 
+[2020.04.23-00.27.37:575][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.37:583][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_airconditioned.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.37:583][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.37:605][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.38:010][369]LogMaterial: Display: Missing cached shader map for material MM_basic_gray_01, compiling. 
+[2020.04.23-00.27.38:142][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.38:435][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.38:771][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1810
+[2020.04.23-00.27.38:771][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.39:035][369]LogMaterial: Display: Missing cached shader map for material MM_basic_material_01, compiling. 
+[2020.04.23-00.27.39:293][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:297][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_05.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:298][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:321][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:324][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_04.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:325][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:341][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:345][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_03.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:345][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:360][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:364][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:364][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:378][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:381][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:381][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:394][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:397][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_09.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:397][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:412][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:416][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_08.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:416][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:428][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:431][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_07.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:432][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:444][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:447][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_06.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:448][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:461][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:464][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_05.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:464][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:476][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:479][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_04.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:479][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:494][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:497][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_03.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:497][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:512][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:515][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:515][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:532][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:535][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:535][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:551][369]LogMaterial: Display: Missing cached shader map for material MM_decal_scratches_01, compiling. 
+[2020.04.23-00.27.39:705][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:708][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_R9.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:708][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:724][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:728][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Priorityseating.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:728][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:743][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:747][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Presstotalk.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:748][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:763][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:766][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Nosmoking.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:766][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:781][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:784][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Noexit.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:784][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:799][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:802][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Noeating.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:802][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:817][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:819][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Inmetrostation.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:820][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:834][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:837][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Fireex.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:837][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:854][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:857][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_ebrake.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:857][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:871][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:874][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_CCA_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:874][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:889][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:891][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_C30.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:891][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:904][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.39:908][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_8805_01a.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.39:909][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.39:926][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.40:212][369]LogMaterial: Display: Missing cached shader map for material MM_ads_uv_offset_01, compiling. 
+[2020.04.23-00.27.40:385][369]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2287
+[2020.04.23-00.27.40:385][369]LogMaterial: Display: Missing cached shader map for material MM_overheadlight_01, compiling. 
+[2020.04.23-00.27.40:486][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.40:757][369]LogMaterial: Display: Missing cached shader map for material MM_scrolling_marquee_01, compiling. 
+[2020.04.23-00.27.40:862][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.41:127][369]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.04.23-00.27.41:130][369]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Flag_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.23-00.27.41:130][369]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
+[2020.04.23-00.27.41:163][369]LogMaterial: Display: Missing cached shader map for material MM_master_material_01, compiling. 
+[2020.04.23-00.27.41:423][369]LogAIModule: Creating AISystem for world Demonstration2
+[2020.04.23-00.27.41:457][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:458][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:459][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:459][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:460][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:460][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:460][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:461][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:461][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:462][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:462][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.SM_ext_doorplate_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:462][369]PIE: Warning: AttachTo: '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.DefaultSceneRoot' is not static  (in blueprint "BP_Door_double_01"), cannot attach '/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.wall_doorway_150_01' which is static to it. Aborting.
+[2020.04.23-00.27.41:599][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.wall_doorway_150_01
+Current: -750.000000,-160.091949,-41.332550|0.000000,-179.999924,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:600][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_01.SM_ext_doorplate_01
+Current: -675.000000,-179.091858,-57.332550|0.000000,0.000567,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:608][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.wall_doorway_150_01
+Current: -599.999756,139.907410,-41.332550|0.000000,-0.000244,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:610][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_11.SM_ext_doorplate_01
+Current: -674.999634,158.907730,-57.332550|0.000000,-179.999756,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:620][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.wall_doorway_150_01
+Current: -150.000000,-160.091949,-41.332550|0.000000,-179.999924,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:621][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_3.SM_ext_doorplate_01
+Current: -75.000008,-179.091858,-57.332550|0.000000,0.000567,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:635][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.wall_doorway_150_01
+Current: 450.000000,-160.091949,-41.332550|0.000000,-179.999924,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:636][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_5.SM_ext_doorplate_01
+Current: 525.000000,-179.091858,-57.332550|0.000000,0.000567,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:647][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.wall_doorway_150_01
+Current: 600.000244,139.907410,-41.332550|0.000000,-0.000244,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:649][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_7.SM_ext_doorplate_01
+Current: 525.000366,158.907730,-57.332550|0.000000,-179.999756,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:660][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.wall_doorway_150_01
+Current: 0.000244,139.907410,-41.332550|0.000000,-0.000244,0.000000|1.000000,1.000000,1.000000 Cached: 0.000000,0.000000,0.000000|0.000000,0.000000,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:663][369]LogStaticMesh: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Maps\Demonstration2.umap: Cached component instance data transform did not match!  Discarding cached lighting data which will cause lighting to be unbuilt.
+/Game/SubwayTrain/Maps/Demonstration2.Demonstration2:PersistentLevel.wall_doorway_door_9.SM_ext_doorplate_01
+Current: -74.999641,158.907730,-57.332550|0.000000,-179.999756,0.000000|1.000000,1.000000,1.000000 Cached: -74.999969,19.000000,-16.000000|0.000000,-179.999496,0.000000|1.000000,1.000000,1.000000
+[2020.04.23-00.27.41:819][369]LogAssetEditorManager: Opening Asset editor for World /Game/SubwayTrain/Maps/Demonstration2.Demonstration2
+[2020.04.23-00.27.41:951][369]LogUObjectHash: Compacting FUObjectHashTables data took  16.00ms
+[2020.04.23-00.27.41:955][369]Cmd: MAP LOAD FILE="../../../../../../Users/Upper School/Documents/GitHub/game-team-h/ActionRPG/Content/SubwayTrain/Maps/Demonstration2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-00.27.41:955][369]LightingResults: New page: Lighting Build
+[2020.04.23-00.27.41:958][369]LoadErrors: New page: Loading map: Demonstration2.umap
+[2020.04.23-00.27.41:964][369]LogWorld: UWorld::CleanupWorld for Subway_Level, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.27.41:967][369]LogWorld: UWorld::CleanupWorld for ActionRPG_Dungeon02_Lights, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.27.41:967][369]LogWorld: UWorld::CleanupWorld for ActionRPG_Dungeon02_Asset, bSessionEnded=true, bCleanupResources=true
+[2020.04.23-00.27.41:967][369]MapCheck: New page: Map Check
+[2020.04.23-00.27.41:967][369]LightingResults: New page: Lighting Build
+[2020.04.23-00.27.42:095][369]LogUObjectHash: Compacting FUObjectHashTables data took  12.56ms
+[2020.04.23-00.27.43:215][369]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-00.27.43:391][369]LogUObjectHash: Compacting FUObjectHashTables data took   9.03ms
+[2020.04.23-00.27.43:622][369]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2697
+[2020.04.23-00.27.43:622][369]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-00.27.43:649][369]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 27.282ms to complete.
+[2020.04.23-00.27.43:649][369]LogFileHelpers: Loading map 'Demonstration2' took 1.698
+[2020.04.23-00.27.44:054][369]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.23-00.27.48:569][439]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2687
+[2020.04.23-00.27.48:940][445]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2677
+[2020.04.23-00.27.50:218][470]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2667
+[2020.04.23-00.27.50:885][483]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2657
+[2020.04.23-00.27.50:926][484]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2647
+[2020.04.23-00.27.51:289][491]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2637
+[2020.04.23-00.27.51:315][491]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2627
+[2020.04.23-00.27.51:773][500]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2617
+[2020.04.23-00.27.58:795][627]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2607
+[2020.04.23-00.27.59:679][644]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2597
+[2020.04.23-00.28.00:050][651]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2587
+[2020.04.23-00.28.01:246][671]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2577
+[2020.04.23-00.28.02:253][689]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2567
+[2020.04.23-00.28.02:497][693]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2557
+[2020.04.23-00.28.03:008][705]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2547
+[2020.04.23-00.28.03:608][718]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2537
+[2020.04.23-00.28.06:411][762]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2527
+[2020.04.23-00.28.06:757][768]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2517
+[2020.04.23-00.28.06:866][769]Cmd: EDIT COPY
+[2020.04.23-00.28.07:588][780]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2507
+[2020.04.23-00.28.09:459][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-00.28.10:787][837]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2497
+[2020.04.23-00.28.11:328][846]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2487
+[2020.04.23-00.28.11:538][850]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2477
+[2020.04.23-00.28.15:121][912]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2467
+[2020.04.23-00.28.15:525][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2457
+[2020.04.23-00.28.16:463][937]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2447
+[2020.04.23-00.28.17:291][947]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2437
+[2020.04.23-00.28.18:913][  3]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2427
+[2020.04.23-00.28.18:986][  4]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2417
+[2020.04.23-00.28.19:290][  9]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2407
+[2020.04.23-00.28.19:361][ 10]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2397
+[2020.04.23-00.28.26:060][123]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2387
+[2020.04.23-00.28.26:108][124]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2377
+[2020.04.23-00.28.26:798][135]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2367
+[2020.04.23-00.28.29:801][183]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2357
+[2020.04.23-00.28.30:398][193]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2347
+[2020.04.23-00.28.31:200][206]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2337
+[2020.04.23-00.28.31:388][209]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2327
+[2020.04.23-00.28.33:042][236]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2317
+[2020.04.23-00.28.34:071][252]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2307
+[2020.04.23-00.28.34:370][256]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2297
+[2020.04.23-00.28.35:444][274]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2287
+[2020.04.23-00.28.38:340][319]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2277
+[2020.04.23-00.28.39:339][336]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2267
+[2020.04.23-00.28.39:710][342]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2257
+[2020.04.23-00.28.42:877][394]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2247
+[2020.04.23-00.28.43:628][406]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2237
+[2020.04.23-00.28.44:113][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2227
+[2020.04.23-00.28.44:898][427]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2217
+[2020.04.23-00.28.45:769][441]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2207
+[2020.04.23-00.28.46:018][445]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2197
+[2020.04.23-00.28.47:289][465]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2187
+[2020.04.23-00.28.47:455][468]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2177
+[2020.04.23-00.28.52:703][554]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2167
+[2020.04.23-00.28.53:489][567]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2157
+[2020.04.23-00.28.53:839][573]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2147
+[2020.04.23-00.28.55:647][602]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2137
+[2020.04.23-00.28.56:213][611]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2127
+[2020.04.23-00.28.56:709][618]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2117
+[2020.04.23-00.28.58:338][645]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2107
+[2020.04.23-00.28.59:021][656]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2097
+[2020.04.23-00.29.00:483][675]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2087
+[2020.04.23-00.29.01:238][686]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2077
+[2020.04.23-00.29.02:459][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2067
+[2020.04.23-00.29.07:952][792]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2057
+[2020.04.23-00.29.08:205][796]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2047
+[2020.04.23-00.29.09:312][813]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2037
+[2020.04.23-00.29.13:379][876]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2027
+[2020.04.23-00.29.13:707][881]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2017
+[2020.04.23-00.29.14:153][888]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2007
+[2020.04.23-00.29.14:781][897]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1997
+[2020.04.23-00.29.17:661][943]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1987
+[2020.04.23-00.29.17:722][944]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1977
+[2020.04.23-00.29.18:015][948]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1967
+[2020.04.23-00.29.18:580][957]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1957
+[2020.04.23-00.29.24:464][ 51]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1947
+[2020.04.23-00.29.25:026][ 60]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1937
+[2020.04.23-00.29.25:214][ 63]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1927
+[2020.04.23-00.29.29:121][128]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1917
+[2020.04.23-00.29.29:618][136]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1907
+[2020.04.23-00.29.30:478][149]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1897
+[2020.04.23-00.29.30:638][152]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1887
+[2020.04.23-00.29.32:313][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1877
+[2020.04.23-00.29.33:157][195]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1867
+[2020.04.23-00.29.39:723][523]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1857
+[2020.04.23-00.29.40:166][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1847
+[2020.04.23-00.29.40:201][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1837
+[2020.04.23-00.29.44:154][767]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1827
+[2020.04.23-00.29.45:131][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1817
+[2020.04.23-00.29.47:479][900]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1807
+[2020.04.23-00.29.49:672][922]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1797
+[2020.04.23-00.29.51:312][930]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1787
+[2020.04.23-00.29.51:747][938]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1777
+[2020.04.23-00.29.54:014][947]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1767
+[2020.04.23-00.29.54:525][953]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1757
+[2020.04.23-00.29.58:797][ 73]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1747
+[2020.04.23-00.30.01:555][133]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1737
+[2020.04.23-00.30.02:844][174]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1727
+[2020.04.23-00.30.03:920][204]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1717
+[2020.04.23-00.30.04:113][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1707
+[2020.04.23-00.30.06:513][259]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1697
+[2020.04.23-00.30.06:928][269]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1687
+[2020.04.23-00.30.12:653][497]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1677
+[2020.04.23-00.30.13:229][512]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1667
+[2020.04.23-00.30.14:099][534]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1657
+[2020.04.23-00.30.14:401][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1647
+[2020.04.23-00.30.16:144][626]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1637
+[2020.04.23-00.30.18:414][707]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1627
+[2020.04.23-00.30.20:062][759]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1617
+[2020.04.23-00.30.22:207][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1607
+[2020.04.23-00.30.23:106][833]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1597
+[2020.04.23-00.30.27:068][ 37]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1587
+[2020.04.23-00.30.28:792][ 91]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1577
+[2020.04.23-00.30.29:587][127]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1567
+[2020.04.23-00.30.29:928][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1557
+[2020.04.23-00.30.30:255][161]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1547
+[2020.04.23-00.30.30:988][197]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1537
+[2020.04.23-00.30.31:689][231]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1527
+[2020.04.23-00.30.37:735][514]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1517
+[2020.04.23-00.30.38:110][536]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1507
+[2020.04.23-00.30.38:211][542]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1497
+[2020.04.23-00.30.38:494][559]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1487
+[2020.04.23-00.30.39:988][647]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1477
+[2020.04.23-00.30.41:347][722]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1467
+[2020.04.23-00.30.41:949][754]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1457
+[2020.04.23-00.30.43:230][830]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1447
+[2020.04.23-00.30.43:934][870]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1437
+[2020.04.23-00.30.45:138][939]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1427
+[2020.04.23-00.30.45:357][951]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1417
+[2020.04.23-00.30.49:429][191]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1407
+[2020.04.23-00.30.49:462][193]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1397
+[2020.04.23-00.30.49:567][199]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1387
+[2020.04.23-00.30.51:672][318]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1377
+[2020.04.23-00.30.52:651][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1367
+[2020.04.23-00.30.53:606][424]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1357
+[2020.04.23-00.30.54:812][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1347
+[2020.04.23-00.30.56:885][613]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1337
+[2020.04.23-00.30.58:510][697]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1327
+[2020.04.23-00.30.59:459][752]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1317
+[2020.04.23-00.30.59:560][758]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1307
+[2020.04.23-00.31.00:013][784]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1297
+[2020.04.23-00.31.00:013][784]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1287
+[2020.04.23-00.31.02:140][907]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1277
+[2020.04.23-00.31.06:118][128]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1267
+[2020.04.23-00.31.06:719][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1257
+[2020.04.23-00.31.07:087][186]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1247
+[2020.04.23-00.31.08:051][241]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1237
+[2020.04.23-00.31.09:518][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1227
+[2020.04.23-00.31.09:568][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1217
+[2020.04.23-00.31.11:224][430]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1207
+[2020.04.23-00.31.11:553][449]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1197
+[2020.04.23-00.31.11:901][468]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1187
+[2020.04.23-00.31.15:467][681]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1177
+[2020.04.23-00.31.32:993][717]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1167
+[2020.04.23-00.31.43:974][300]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1157
+[2020.04.23-00.31.44:968][357]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1147
+[2020.04.23-00.31.47:320][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1137
+[2020.04.23-00.31.48:502][565]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1127
+[2020.04.23-00.31.49:982][653]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1117
+[2020.04.23-00.31.51:370][736]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1107
+[2020.04.23-00.31.51:724][757]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1097
+[2020.04.23-00.31.55:244][966]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1087
+[2020.04.23-00.31.56:918][ 64]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1077
+[2020.04.23-00.31.58:193][138]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1067
+[2020.04.23-00.31.59:286][203]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1057
+[2020.04.23-00.32.00:035][247]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1047
+[2020.04.23-00.32.00:967][301]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1037
+[2020.04.23-00.32.01:201][315]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1027
+[2020.04.23-00.32.02:176][371]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1017
+[2020.04.23-00.32.04:196][486]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1007
+[2020.04.23-00.32.08:548][687]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 997
+[2020.04.23-00.32.09:103][706]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 987
+[2020.04.23-00.32.09:229][711]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 977
+[2020.04.23-00.32.09:872][734]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 967
+[2020.04.23-00.32.10:796][783]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 957
+[2020.04.23-00.32.12:609][885]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 947
+[2020.04.23-00.32.14:325][976]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 937
+[2020.04.23-00.32.14:507][985]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 927
+[2020.04.23-00.32.14:716][997]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 917
+[2020.04.23-00.32.18:291][203]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 907
+[2020.04.23-00.32.18:932][232]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 897
+[2020.04.23-00.32.19:530][264]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 887
+[2020.04.23-00.32.21:127][346]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 877
+[2020.04.23-00.32.21:874][387]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 867
+[2020.04.23-00.32.22:989][452]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 857
+[2020.04.23-00.32.25:082][574]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 847
+[2020.04.23-00.32.25:199][581]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 837
+[2020.04.23-00.32.25:300][587]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 827
+[2020.04.23-00.32.25:478][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 817
+[2020.04.23-00.32.26:159][634]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 807
+[2020.04.23-00.32.31:924][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 797
+[2020.04.23-00.32.32:865][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 787
+[2020.04.23-00.32.33:752][  6]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 777
+[2020.04.23-00.32.34:478][ 45]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 767
+[2020.04.23-00.32.35:382][ 98]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 757
+[2020.04.23-00.32.35:621][110]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 747
+[2020.04.23-00.32.37:590][210]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 737
+[2020.04.23-00.32.38:466][260]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 727
+[2020.04.23-00.32.40:576][377]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 717
+[2020.04.23-00.32.40:855][389]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 707
+[2020.04.23-00.32.42:114][449]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 697
+[2020.04.23-00.32.45:023][618]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 687
+[2020.04.23-00.32.45:841][667]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 677
+[2020.04.23-00.32.46:463][704]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 667
+[2020.04.23-00.32.48:954][851]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 657
+[2020.04.23-00.32.49:513][883]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 647
+[2020.04.23-00.32.50:915][965]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 637
+[2020.04.23-00.32.51:714][ 12]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 627
+[2020.04.23-00.32.52:214][ 41]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 617
+[2020.04.23-00.32.53:184][ 97]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 607
+[2020.04.23-00.32.53:234][ 98]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 597
+[2020.04.23-00.32.54:211][156]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 587
+[2020.04.23-00.32.59:791][479]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 577
+[2020.04.23-00.33.00:565][524]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 567
+[2020.04.23-00.33.00:631][528]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 557
+[2020.04.23-00.33.01:929][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 547
+[2020.04.23-00.33.02:026][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 537
+[2020.04.23-00.33.02:547][636]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 527
+[2020.04.23-00.33.05:060][785]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 517
+[2020.04.23-00.33.06:153][849]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 507
+[2020.04.23-00.33.06:500][869]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 497
+[2020.04.23-00.33.09:719][ 55]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 487
+[2020.04.23-00.33.10:539][103]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 477
+[2020.04.23-00.33.12:606][223]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 467
+[2020.04.23-00.33.13:320][261]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 457
+[2020.04.23-00.33.15:074][365]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 447
+[2020.04.23-00.33.17:395][502]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 437
+[2020.04.23-00.33.19:050][600]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 427
+[2020.04.23-00.33.19:652][635]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 417
+[2020.04.23-00.33.19:971][653]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 407
+[2020.04.23-00.33.20:289][672]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 397
+[2020.04.23-00.33.22:024][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 387
+[2020.04.23-00.33.23:346][850]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 377
+[2020.04.23-00.33.25:912][997]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 367
+[2020.04.23-00.33.29:440][198]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 357
+[2020.04.23-00.33.30:129][238]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 347
+[2020.04.23-00.33.30:397][249]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 337
+[2020.04.23-00.33.32:071][345]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 327
+[2020.04.23-00.33.32:458][366]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 317
+[2020.04.23-00.33.34:233][468]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 307
+[2020.04.23-00.33.36:828][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 297
+[2020.04.23-00.33.37:707][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 287
+[2020.04.23-00.33.38:042][685]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 277
+[2020.04.23-00.33.38:209][695]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 267
+[2020.04.23-00.33.38:310][700]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 257
+[2020.04.23-00.33.43:748][  9]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 247
+[2020.04.23-00.33.45:347][102]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 237
+[2020.04.23-00.33.45:833][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 227
+[2020.04.23-00.33.46:903][194]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 217
+[2020.04.23-00.33.47:322][219]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 207
+[2020.04.23-00.33.49:179][326]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 197
+[2020.04.23-00.33.49:277][331]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 187
+[2020.04.23-00.33.51:733][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 177
+[2020.04.23-00.33.54:186][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 167
+[2020.04.23-00.33.55:178][673]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 157
+[2020.04.23-00.33.55:770][708]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 147
+[2020.04.23-00.33.55:820][711]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 137
+[2020.04.23-00.33.57:952][833]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 127
+[2020.04.23-00.33.59:988][953]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 117
+[2020.04.23-00.34.03:379][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 107
+[2020.04.23-00.34.03:479][137]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 97
+[2020.04.23-00.34.04:152][177]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 87
+[2020.04.23-00.34.04:459][195]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2020.04.23-00.34.05:865][277]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 67
+[2020.04.23-00.34.06:589][319]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 58
+[2020.04.23-00.34.10:521][549]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 50
+[2020.04.23-00.34.10:880][570]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2020.04.23-00.34.11:499][601]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 37
+[2020.04.23-00.34.11:936][627]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 32
+[2020.04.23-00.34.12:094][636]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 27
+[2020.04.23-00.34.14:077][753]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2020.04.23-00.34.14:802][796]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.04.23-00.34.15:541][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 17
+[2020.04.23-00.34.15:895][860]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.04.23-00.34.16:485][893]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2020.04.23-00.34.16:535][896]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.04.23-00.34.18:004][982]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.04.23-00.34.18:501][ 11]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2020.04.23-00.34.18:551][ 14]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.04.23-00.34.18:616][ 18]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.04.23-00.34.19:157][ 50]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.04.23-00.34.19:609][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.04.23-00.34.19:660][ 80]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
