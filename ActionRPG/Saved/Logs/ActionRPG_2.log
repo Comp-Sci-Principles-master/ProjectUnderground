@@ -104,7 +104,7 @@ LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -405,7 +405,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.49.44:831][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
 [2020.05.01-17.49.44:831][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
 [2020.05.01-17.49.44:831][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.05.01-17.49.44:831][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.01-17.49.44:831][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2020.05.01-17.49.44:831][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
 [2020.05.01-17.49.44:831][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2020.05.01-17.49.44:831][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -561,8 +561,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.50.11:188][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_DDEAD4C84DD6D9EA643957BEA37D2919___BB7C799F32EA7A47CE4CC42C609A22D545D9B2CE.udd.
 [2020.05.01-17.50.11:188][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2A8977954427E980BF65D4B0C737E__11E0A7D87D308E6FFE22E4021AC3E1D4A8194483.udd.
 [2020.05.01-17.50.11:188][  0]LogDerivedDataCache: FFileSystemDerivedDataBackend: Move collision, attempt at redundant update, OK C:/Users/Upper School/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_2B9C37CF43079CBA41800792F638E__04E361862D046A7DD558BED0B3D586253309494E.udd.
-[2020.05.01-17.50.11:188][  0]LogMaterial: Display: Missing cached shader map for material Topmat, compiling. 
-[2020.05.01-17.50.11:263][  0]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling. 
+[2020.05.01-17.50.11:188][  0]LogMaterial: Display: Missing cached shader map for material Topmat, compiling.
+[2020.05.01-17.50.11:263][  0]LogMaterial: Display: Missing cached shader map for material Shoesmat, compiling.
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
@@ -572,12 +572,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
 [2020.05.01-17.50.11:299][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 4
-[2020.05.01-17.50.11:299][  0]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
-[2020.05.01-17.50.11:333][  0]LogMaterial: Display: Missing cached shader map for material Eyewearmat, compiling. 
-[2020.05.01-17.50.11:378][  0]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
-[2020.05.01-17.50.11:428][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_2, compiling. 
-[2020.05.01-17.50.11:478][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_1, compiling. 
-[2020.05.01-17.50.11:526][  0]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.05.01-17.50.11:299][  0]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling.
+[2020.05.01-17.50.11:333][  0]LogMaterial: Display: Missing cached shader map for material Eyewearmat, compiling.
+[2020.05.01-17.50.11:378][  0]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling.
+[2020.05.01-17.50.11:428][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_2, compiling.
+[2020.05.01-17.50.11:478][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_1, compiling.
+[2020.05.01-17.50.11:526][  0]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling.
 [2020.05.01-17.50.11:575][  0]LogSkeletalMesh: Building Skeletal Mesh Nose...
 [2020.05.01-17.50.11:659][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/Characters/GG_Enemy/Nose.Nose
 [2020.05.01-17.50.11:982][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/GG_Enemy/Animations/Idle_Grunt_nose2.Idle_Grunt_nose2

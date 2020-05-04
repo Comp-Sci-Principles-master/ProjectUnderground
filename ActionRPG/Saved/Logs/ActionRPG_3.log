@@ -104,7 +104,7 @@ LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -405,7 +405,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.50.11:886][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
 [2020.05.01-17.50.11:886][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
 [2020.05.01-17.50.11:887][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.05.01-17.50.11:887][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.01-17.50.11:887][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2020.05.01-17.50.11:887][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
 [2020.05.01-17.50.11:887][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2020.05.01-17.50.11:887][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -520,7 +520,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.50.28:711][  0]MapCheck: New page: Map Check
 [2020.05.01-17.50.28:711][  0]LightingResults: New page: Lighting Build
 [2020.05.01-17.50.28:763][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
-[2020.05.01-17.50.34:068][  0]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling. 
+[2020.05.01-17.50.34:068][  0]LogMaterial: Display: Missing cached shader map for material Bodymat, compiling.
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 53
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 46
@@ -530,11 +530,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
 [2020.05.01-17.50.34:959][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 4
-[2020.05.01-17.50.34:959][  0]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling. 
-[2020.05.01-17.50.35:014][  0]LogMaterial: Display: Missing cached shader map for material Eyewearmat, compiling. 
-[2020.05.01-17.50.35:093][  0]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling. 
-[2020.05.01-17.50.35:158][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_2, compiling. 
-[2020.05.01-17.50.35:223][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_1, compiling. 
+[2020.05.01-17.50.34:959][  0]LogMaterial: Display: Missing cached shader map for material Hairmat, compiling.
+[2020.05.01-17.50.35:014][  0]LogMaterial: Display: Missing cached shader map for material Eyewearmat, compiling.
+[2020.05.01-17.50.35:093][  0]LogMaterial: Display: Missing cached shader map for material Bottommat, compiling.
+[2020.05.01-17.50.35:158][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_2, compiling.
+[2020.05.01-17.50.35:223][  0]LogMaterial: Display: Missing cached shader map for material Bodymat_ncl1_1, compiling.
 [2020.05.01-17.50.35:630][  0]LogAIModule: Creating AISystem for world ActionRPG_P
 [2020.05.01-17.50.35:657][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
 [2020.05.01-17.50.35:658][  0]LogStreaming: Display: Flushing async loaders.
@@ -597,7 +597,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.01-17.51.29:787][ 38]LogStreaming: Display: Flushing async loaders.
 [2020.05.01-17.51.29:798][ 38]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
 [2020.05.01-17.51.30:218][ 38]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.01-17.51.30:219][ 38]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-11160.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.05.01-17.51.30:219][ 38]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-11160.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu)
 [2020.05.01-17.51.30:284][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
 [2020.05.01-17.51.30:375][ 38]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.05.01-17.51.30:376][ 38]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.423ms to complete.
