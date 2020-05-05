@@ -99,12 +99,12 @@ LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
 LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -405,7 +405,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-15.23.58:936][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
 [2020.05.05-15.23.58:937][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
 [2020.05.05-15.23.58:937][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.05.05-15.23.58:937][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.05.05-15.23.58:937][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2020.05.05-15.23.58:937][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
 [2020.05.05-15.23.58:937][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2020.05.05-15.23.58:937][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -588,7 +588,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-15.24.45:786][163]LogStreaming: Display: Flushing async loaders.
 [2020.05.05-15.24.45:795][163]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
 [2020.05.05-15.24.45:966][163]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.05-15.24.45:966][163]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-33480.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.05.05-15.24.45:966][163]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-33480.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu)
 [2020.05.05-15.24.45:999][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2020.05.05-15.24.46:040][163]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.05.05-15.24.46:040][163]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.233ms to complete.
@@ -626,7 +626,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-15.26.38:490][168]LogStreaming: Display: Flushing async loaders.
 [2020.05.05-15.26.39:655][168]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Subway_Level1.Subway_Level1 up for play (max tick rate 0) at 2020.05.05-11.26.39
 [2020.05.05-15.26.39:886][168]LogWorld: Bringing up level for play took: 0.236018
-[2020.05.05-15.26.39:887][168]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-5580.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.05.05-15.26.39:887][168]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-5580.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu)
 [2020.05.05-15.26.39:890][168]LogOnline: OSS: Creating online subsystem instance for: :Context_2
 [2020.05.05-15.26.39:902][168]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
 [2020.05.05-15.26.39:903][168]LogScript: Warning: Accessed None trying to read property CallFunc_GetPlayerControllerBP_Controller_4
@@ -681,7 +681,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-15.29.07:832][202]LogStreaming: Display: Flushing async loaders.
 [2020.05.05-15.29.07:837][202]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Asset) is flushing async loading
 [2020.05.05-15.29.08:114][202]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.05-15.29.08:115][202]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-16740.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.05.05-15.29.08:115][202]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-16740.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu)
 [2020.05.05-15.29.08:151][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
 [2020.05.05-15.29.08:188][202]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.05.05-15.29.08:188][202]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.234ms to complete.
@@ -734,7 +734,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-15.30.30:400][872]LogStreaming: Display: Flushing async loaders.
 [2020.05.05-15.30.30:434][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/ActionRPG_Dungeon02_Lights) is flushing async loading
 [2020.05.05-15.30.30:775][872]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.05.05-15.30.30:775][872]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-16740.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu) 
+[2020.05.05-15.30.30:775][872]LogNavigation: Warning: Recreating dtNavMesh instance due to saved navmesh origin (X=-16740.000 Y=0.000 Z=0.000, usually the RecastNavMesh location) not being aligned with tile size (988 uu)
 [2020.05.05-15.30.30:813][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
 [2020.05.05-15.30.30:852][872]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.05.05-15.30.30:853][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.65ms to complete.
