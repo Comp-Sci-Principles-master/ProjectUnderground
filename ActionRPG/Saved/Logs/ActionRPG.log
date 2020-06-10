@@ -99,12 +99,12 @@ LogInit: Build: ++UE4+Release-4.23-CL-9631420
 LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
 LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
 LogInit: Net CL: 8386587
-LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
 LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
 LogInit: Compiled with Visual C++: 19.16.27030.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.23
-LogInit: Command Line: 
+LogInit: Command Line:
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
@@ -405,7 +405,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-14.11.43:695][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
 [2020.06.10-14.11.43:696][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
 [2020.06.10-14.11.43:696][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.06.10-14.11.43:696][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.06.10-14.11.43:696][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2020.06.10-14.11.43:696][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
 [2020.06.10-14.11.43:696][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2020.06.10-14.11.43:696][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -555,103 +555,103 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-14.12.11:510][ 22]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
 [2020.06.10-14.13.03:840][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.06.10-14.13.06:383][687]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.06.10-14.13.09:859][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.09:859][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.09:861][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Masters\MM_Decal_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.09:861][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.09:863][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.09:863][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.09:864][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_airconditioned.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.09:864][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.10:179][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.10:179][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.10:180][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_8805_01b.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.10:180][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.10:182][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.10:182][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.10:183][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_CCA_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.10:183][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:061][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:061][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:062][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_05.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:062][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:064][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:064][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:065][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_04.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:065][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:067][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:067][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:067][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_03.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:067][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:070][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:070][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:070][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:070][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:073][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:073][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:073][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_sticker_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:073][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:075][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:075][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:076][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_09.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:076][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:078][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:078][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:079][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_08.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:079][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:081][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:081][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:082][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_07.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:082][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:084][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:084][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:084][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_06.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:084][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:087][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:087][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:087][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_05.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:087][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:090][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:090][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:090][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_04.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:090][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:092][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:092][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:093][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_03.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:093][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:095][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:095][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:096][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:096][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:098][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:098][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:099][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Graffiti_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:099][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:113][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:113][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:114][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_R9.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:114][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:116][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:116][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:117][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Priorityseating.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:117][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:119][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:119][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:120][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Presstotalk.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:120][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:122][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:122][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:123][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Nosmoking.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:123][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:125][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:125][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:125][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Noexit.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:125][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:128][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:128][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:128][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_ebrake.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:128][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:131][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:131][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:131][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_CCA_02.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:132][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:134][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:134][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:134][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_C30.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:134][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:137][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:137][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:137][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Noeating.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:137][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:140][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:140][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:140][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Inmetrostation.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:140][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:143][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:143][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:143][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Fireex.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:143][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:145][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:145][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:146][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_8805_01a.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:146][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.12:453][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.12:453][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.12:453][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_donotlean.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.12:453][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.13:231][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.13:231][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.13:232][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_Decal_Flag_01.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.13:232][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
-[2020.06.10-14.13.13:241][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling. 
+[2020.06.10-14.13.13:241][687]LogMaterial: Display: Missing cached shader map for material MM_decal_01, compiling.
 [2020.06.10-14.13.13:241][687]LogMaterial: Warning: C:\Users\Upper School\Documents\GitHub\game-team-h\ActionRPG\Content\SubwayTrain\Materials\Instances_Decals\MI_decal_donothold.uasset: Failed to compile Material Instance with Base MM_decal_01 for platform PCD3D_SM5, Default Material will be used in game.
 [2020.06.10-14.13.13:241][687]LogMaterial: Display: 	DBuffer decal blend modes are only supported when the 'DBuffer Decals' Rendering Project setting is enabled.
 [2020.06.10-14.13.13:283][687]LogAIModule: Creating AISystem for world Subway_Level
@@ -785,7 +785,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-14.33.22:899][550]LogActorFactory: Actor Factory created Cylinder
 [2020.06.10-14.33.24:009][608]LogActorFactory: Actor Factory created Cylinder
 [2020.06.10-14.33.29:940][949]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.06.10-14.33.31:386][ 23]LogMaterial: Display: Missing cached shader map for material BasicAsset01, compiling. 
+[2020.06.10-14.33.31:386][ 23]LogMaterial: Display: Missing cached shader map for material BasicAsset01, compiling.
 [2020.06.10-14.33.31:495][ 24]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 69
 [2020.06.10-14.33.31:495][ 24]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 60
 [2020.06.10-14.33.31:495][ 24]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 51
@@ -795,7 +795,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.10-14.33.31:495][ 24]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
 [2020.06.10-14.33.31:495][ 24]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
 [2020.06.10-14.33.32:837][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.06.10-14.33.34:688][189]LogMaterial: Display: Missing cached shader map for material ArrowMaterial, compiling. 
+[2020.06.10-14.33.34:688][189]LogMaterial: Display: Missing cached shader map for material ArrowMaterial, compiling.
 [2020.06.10-14.33.34:792][189]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 40
 [2020.06.10-14.33.35:399][219]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
 [2020.06.10-14.33.35:517][226]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
