@@ -3,3 +3,4 @@ Compressed.ddp
 *.ini
 ActionRPG/Binaries/Win64
 ActionRPG/Intermediate/Build
+ActionRPG/Saved/StagedBuilds
