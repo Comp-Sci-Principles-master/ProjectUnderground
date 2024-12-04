@@ -1,4 +1,4 @@
-D:\Git Hub\game-team-h\ActionRPG\Source\ActionRPG\ActionRPG.Build.cs
-D:\Git Hub\game-team-h\ActionRPG\Source\ActionRPGLoadingScreen\ActionRPGLoadingScreen.Build.cs
-D:\Git Hub\game-team-h\ActionRPG\Source\ActionRPG.Target.cs
-D:\Git Hub\game-team-h\ActionRPG\Source\ActionRPGEditor.Target.cs
+D:\game-team-h\ActionRPG\Source\ActionRPGLoadingScreen\ActionRPGLoadingScreen.Build.cs
+D:\game-team-h\ActionRPG\Source\ActionRPG\ActionRPG.Build.cs
+D:\game-team-h\ActionRPG\Source\ActionRPG.Target.cs
+D:\game-team-h\ActionRPG\Source\ActionRPGEditor.Target.cs
